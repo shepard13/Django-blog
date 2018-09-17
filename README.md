@@ -1,1 +1,1 @@
-# Django-mysite
+# Shopping-list
